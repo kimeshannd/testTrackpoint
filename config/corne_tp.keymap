@@ -11,9 +11,9 @@
 #define BASE 0
 #define LOWER 1     
 #define UTILITY 2
-#define MOUSE_KEYS 3
-#define MOUSE_TP 4
-#define MOUSE_TP_SET 5
+// #define MOUSE_KEYS 3
+#define MOUSE_TP 3
+#define MOUSE_TP_SET 4
 
 /*
  * Defines to enable/disable features
