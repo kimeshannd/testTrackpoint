@@ -11,4 +11,6 @@ Infused-kim for:
 - Trackpoint [config](https://github.com/infused-kim/kb_zmk_ps2_mouse_trackpoint_driver-zmk_config) (this is a fork of their repo), including scroll features
 - Trackpoint [driver](https://github.com/infused-kim/kb_zmk_ps2_mouse_trackpoint_driver/)
 
+I'm currently using the [KLP Lame](https://github.com/braindefender/KLP-Lame-Keycaps) 3d printed keycaps (in resin). 
+
 See the [Todo](todo.md) page for changes/feature support.
