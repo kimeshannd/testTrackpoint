@@ -1,5 +1,9 @@
 # Trackpoint Chocofi
 
+ZMK Config for a Beekeeb Chocofi with Holykeebs trackpoint module.
+
+This is a fork of infused-kim's [Trackpoint config](https://github.com/infused-kim/kb_zmk_ps2_mouse_trackpoint_driver-zmk_config) based on their [driver](https://github.com/infused-kim/kb_zmk_ps2_mouse_trackpoint_driver/) currently in development, and borrows lots of other handy configurations and features from [Urobs ZMK config](https://github.com/urob/zmk-config/tree/main).
+
 See the [Todo](todo.md) page for changes/feature support.
 
 # Example ZMK Config with PS/2 Mouse & TrackPoint Support
