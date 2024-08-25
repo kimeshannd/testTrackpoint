@@ -1,5 +1,14 @@
 # OS Files
 .DS_Store
 
+.build
+.venv
+.direnv
+.west
+modules
+firmware
+zmk
+
+
 # Temporary files
 keymap_img/keymap.yaml
