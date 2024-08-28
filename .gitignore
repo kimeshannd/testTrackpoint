@@ -3,12 +3,13 @@
 
 .build
 .venv
+.vscode
 .direnv
 .west
 modules
 firmware
 zmk
-
+zephyr
 
 # Temporary files
 keymap_img/keymap.yaml
