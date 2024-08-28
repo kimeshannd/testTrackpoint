@@ -14,3 +14,6 @@ Infused-kim for:
 I'm currently using the [KLP Lame](https://github.com/braindefender/KLP-Lame-Keycaps) 3d printed keycaps (in resin). 
 
 See the [Todo](todo.md) page for changes/feature support.
+
+# Keymap
+![keymap](img/base.svg)
