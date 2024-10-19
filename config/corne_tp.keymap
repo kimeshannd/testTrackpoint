@@ -56,7 +56,7 @@
   #define U_TOG_TP_SET &none
 #endif  // HAS_MOUSE_TP
 
-// Disable line-wrap in your editor to see a "visualization" of the key layouts
+// Disable line-jjwrap in your editor to see a "visualization" of the key layouts
 / {
 
   keymap {
