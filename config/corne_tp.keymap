@@ -11,7 +11,7 @@
 #define BASE 0
 #define LOWER 2
 #define RAISED 3
-#dfine ADJUST 4
+#define ADJUST 4
 #define MOUSE_KEYS 5
 #define MOUSE_TP 6
 #define MOUSE_TP_SET 7
