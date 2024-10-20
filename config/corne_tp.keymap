@@ -10,12 +10,12 @@
 #include <dt-bindings/zmk/outputs.h>
 
 #define BASE 0
-#define LOWER 2
-#define RAISED 3
-#define ADJUST 4
-#define MOUSE_KEYS 5
-#define MOUSE_TP 6
-#define MOUSE_TP_SET 7
+#define LOWER 1
+#define RAISED 2
+#define ADJUST 3
+#define MOUSE_KEYS 4
+#define MOUSE_TP 5
+#define MOUSE_TP_SET 6
 
 /*
  * Defines to enable/disable features
